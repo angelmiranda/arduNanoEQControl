@@ -1,6 +1,6 @@
 # arduNanoEQControl
 
-Control of a equatorial mount using an <B>Arduino Nano</B> controller and two <B>DRV8825</B> drivers. It is a simple control, for up-down, left and right directions. 
+Control of an equatorial mount using an <B>Arduino Nano</B> controller and two <B>DRV8825</B> drivers. It is a simple control, for up-down, left and right directions. 
 
 The speed selector is done with two swithes in the next way;
 

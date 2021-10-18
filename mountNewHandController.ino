@@ -4,7 +4,7 @@ float SIDEREAL_DAY = 86164.0905;    // Sidereal day in seconds
 float MOUNT_WORM = 144;             // Number of teeth for Vixen GP2 worm
 float GEAR_RATIO = 2.5;             // Gear ratio, depends on the pulleys 
 float MICROSTEPPING = 32;           // Microstepping defined for the motor controlles
-float STEPS = 200;                  // Numver of steps of the motors 
+float STEPS = 200;                  // Number of steps of the motors 
 
 //Sidereal rate in microseconds
 const float siderealRate = (1000000 * SIDEREAL_DAY) / (MOUNT_WORM * GEAR_RATIO * MICROSTEPPING * STEPS);
